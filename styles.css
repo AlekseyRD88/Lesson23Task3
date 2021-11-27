@@ -12,6 +12,7 @@
 .menu__item {
   list-style-type: none;
   padding: 0 8px;
+  color: white;
 }
 .menu__item:hover {
   background-color: #9acd32;
